@@ -2,7 +2,7 @@ import React from 'react';
 import {Typography, AppBar, Button, CssBaseline, Grid,Toolbar, Container} from '@mui/material';
 import Inventory2Icon from '@mui/icons-material/Inventory2';
 import DataTable from './components/DataTable';
-import FreeSolo from './buscador/BuscarProducto';
+import FreeSolo from './components/buscador/BuscarProducto';
 
 
 function App() {
